@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @casegib
 - 👀 I’m interested in DevOps and server management.
-- 🌱 I’m currently learning Kubernetes and container orchestration
+- 🌱 I’m currently learning all things AI
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me is @ <a href="https://caseygibson.io" target="_blank">CaseyGibson.io
 
